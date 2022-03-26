@@ -1,1 +1,3 @@
-# TP_ML_Cassina_Giay_Knoll
+# TPS - MACHINE LEARNING
+
+Integrantes: Paula Cassina, Florencia Giay y Gonzalo Knoll
