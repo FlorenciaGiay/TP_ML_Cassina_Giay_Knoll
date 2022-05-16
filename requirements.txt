@@ -10,3 +10,4 @@ tensorflow == 2.8.0
 h5py == 3.6.0
 pillow == 9.0.1
 sklearn-pandas == 2.2.0
+sh == 1.14.2
